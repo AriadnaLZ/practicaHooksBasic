@@ -1,0 +1,10 @@
+img {
+  transition: 1s;
+  border: solid 2px white;
+  border-radius: 10px;
+}
+
+.volteo {
+  transform: rotate(180deg);
+}
+
